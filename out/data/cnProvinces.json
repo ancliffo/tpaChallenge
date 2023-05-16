@@ -1,0 +1,11 @@
+[
+  { "ABBR": "AB", "NAME": "ALBERTA" },
+  { "ABBR": "BC", "NAME": "BRITISH COLUMBIA" },
+  { "ABBR": "MB", "NAME": "MANITOBA" },
+  { "ABBR": "NB", "NAME": "NEW BRUNSWICK" },
+  { "ABBR": "NL", "NAME": "NEWFOUNDLAND" },
+  { "ABBR": "NS", "NAME": "NOVA SCOTIA" },
+  { "ABBR": "ON", "NAME": "ONTARIO" },
+  { "ABBR": "QC", "NAME": "QUEBEC" },
+  { "ABBR": "SK", "NAME": "SASKATCHEWAN" }
+]

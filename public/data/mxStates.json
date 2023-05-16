@@ -1,0 +1,10 @@
+[
+  { "ABBR": "CH", "NAME": "CHIAPAS" },
+  { "ABBR": "CU", "NAME": "COAHUILA" },
+  { "ABBR": "EM", "NAME": "EDO DE MEXICO" },
+  { "ABBR": "GT", "NAME": "GUANAJUATO" },
+  { "ABBR": "JA", "NAME": "JALISCO" },
+  { "ABBR": "NL", "NAME": "NUEVO LEON" },
+  { "ABBR": "QT", "NAME": "QUERETARO" },
+  { "ABBR": "SL", "NAME": "SAN LUIS POTOSI" }
+]
